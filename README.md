@@ -1,4 +1,4 @@
 # MyProject
 this is my first repository
 
-author Swapniul sontakke
+author Swapnil sontakke
